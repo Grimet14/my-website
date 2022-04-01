@@ -9,10 +9,30 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@600&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            animation: fadeInAnimation ease 3s;
+            animation-iteration-count: 1;
+            animation-fill-mode: forwards;
+        }
+        @keyframes fadeInAnimation {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+    </style>
+
 </head>
 <body>
     <div class="mainheader">
         <h1>Grimet</h1>
+    </div>
+    <div class="secondheader">
+        <h3> Hi there, I'm Grimet!👋</h3>
     </div>
 </body>
 </html>
