@@ -32,10 +32,3 @@
         font-size: .8em;
     }
 }
-
-/*queries for tablets*/
-@media only screen and (max-width: 1200px){
-    .aboutme {
-        padding-left: 0px;
-    }
-}
