@@ -25,3 +25,11 @@ body {
     font-family: 'IBM Plex Mono', monospace;
     font-size: 1.3em;
 }
+
+.githubstats {
+    text-align: center;
+}
+
+.usedlanguages {
+    text-align: center
+}
