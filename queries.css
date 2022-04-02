@@ -1,24 +1,41 @@
+/*queries for big smartphones*/
 @media only screen and (max-width: 600px){
 	.mainheader {
-        font-size: .9em;
+        font-size: 1.1em;
+        text-align: center;
+    }
+    .secondheader {
+        font-size: 1.2em;
         text-align: center;
     }
     .githubstats {
-        width: 60%;
+        width: 80%;
         height: auto;
-        text-align: center
+        text-align: center;
+        padding: 0px;
     }
     .usedlanguages {
-        width: 51%;
+        width: 70%;
         height: auto;
         text-align: center
     }
-    .secondheader {
-        font-size: 1em;
+    .list1 {
         text-align: center;
     }
-    .list1 {
-        font-size: .6em;
-        text-align: center
+    .aboutme {
+        text-align: center;
+        font-size: .8em;
+        padding: 30px;
+    }
+    .bottomtext {
+        text-align: center;
+        font-size: .8em;
+    }
+}
+
+/*queries for tablets*/
+@media only screen and (max-width: 1200px){
+    .aboutme {
+        padding-left: 0px;
     }
 }
