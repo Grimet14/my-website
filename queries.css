@@ -1,0 +1,24 @@
+@media only screen and (max-width: 600px){
+	.mainheader {
+        font-size: .9em;
+        text-align: center;
+    }
+    .githubstats {
+        width: 60%;
+        height: auto;
+        text-align: center
+    }
+    .usedlanguages {
+        width: 51%;
+        height: auto;
+        text-align: center
+    }
+    .secondheader {
+        font-size: 1em;
+        text-align: center;
+    }
+    .list1 {
+        font-size: .6em;
+        text-align: center
+    }
+}
