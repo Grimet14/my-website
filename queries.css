@@ -8,6 +8,11 @@
         font-size: 1.2em;
         text-align: center;
     }
+    .aboutme {
+        text-align: center;
+        font-size: .8em;
+        padding: 30px;
+    }
     .githubstats {
         width: 80%;
         height: auto;
@@ -18,14 +23,6 @@
         width: 70%;
         height: auto;
         text-align: center
-    }
-    .list1 {
-        text-align: center;
-    }
-    .aboutme {
-        text-align: center;
-        font-size: .8em;
-        padding: 30px;
     }
     .bottomtext {
         text-align: center;
