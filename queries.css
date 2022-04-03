@@ -13,6 +13,23 @@
         font-size: .8em;
         padding: 30px;
     }
+    .thirdheader {
+        font-size: 1.2em;
+        text-align: center;
+    }
+    .servicelist {
+        text-align: center;
+        font-size: .8em;
+        padding: 30px;
+    }
+    .fourthheader {
+        font-size: 1.2em;
+        text-align: center;
+    }
+    .githubpagehyperlink {
+        text-align: center;
+        font-size: .8em;
+    }
     .githubstats {
         width: 80%;
         height: auto;
@@ -27,5 +44,21 @@
     .bottomtext {
         text-align: center;
         font-size: .8em;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+}
+@media only screen and (max-width: 1200px){
+    .aboutme {
+        text-align: center;
+        padding: 30px;
+    }
+    .servicelist {
+        text-align: center;
+        padding: 30px;
+    }
+    .bottomtext {
+        padding-left: 25px;
+        padding-right: 25px;
     }
 }
