@@ -57,3 +57,7 @@ body {
     font-family: 'IBM Plex Mono', monospace;
     font-size: 1em;
 }
+
+.discordpagehyperlink {
+    color: white;
+}
